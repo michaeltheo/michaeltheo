@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<!-- #### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Giapa/Giapa/edit/main/README.md) -->
+ #### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/michaeltheo/michaeltheo/edit/main/readme.md) 
 
 ### :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
