@@ -9,7 +9,7 @@
   </a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=michaeltheo&style=flat-square&label=PROFILE+VIEWS)
+<!-- ![](https://komarev.com/ghpvc/?username=michaeltheo&style=flat-square&label=PROFILE+VIEWS) -->
 
 
 ### :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
