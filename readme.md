@@ -31,7 +31,7 @@
 <!-- TypeScipt Image -->
 <img align="left" alt="TypeScript"  width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" />
 <!-- Angular -->
-<img align="left" alt="Angular"  width="50px" src="https://icon2.cleanpng.com/20180421/xew/kisspng-web-development-angularjs-javascript-node-js-angular-5adb17c24a2c40.3687193215243079063038.jpg" />
+<img align="left" alt="Angular"  width="50px" src="https://www.pngitem.com/pimgs/m/151-1511439_angular-logo-hd-png-download.png" />
 
 <br/>
 <br/>
