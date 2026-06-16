@@ -69,10 +69,26 @@ src="https://img.shields.io/github/followers/michaeltheo?logo=github&style=for-t
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/michaeltheo"><img src="https://github-readme-stats.vercel.app/api?username=michaeltheo&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="michaeltheo's GitHub stats" /></a>
+<p align="center">
+  <a href="https://github.com/michaeltheo">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=michaeltheo&show_icons=true&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true" alt="Michael's GitHub stats" />
+  </a>
+</p>
 
-<a href="http://www.github.com/michaeltheo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=michaeltheo&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p align="center">
+  <a href="https://github.com/michaeltheo">
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=michaeltheo&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Michael's GitHub streak" />
+  </a>
+</p>
 
-<a href="http://www.github.com/michaeltheo"><img src="https://github-readme-activity-graph.vercel.app/graph?username=michaeltheo&bg_color=1c1917&color=ffffff&line=f97316&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<p align="center">
+  <a href="https://github.com/michaeltheo">
+    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=michaeltheo&bg_color=1c1917&color=ffffff&line=f97316&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+  </a>
+</p>
 
-<a href="https://github.com/michaeltheo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeltheo&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+<p align="center">
+  <a href="https://github.com/michaeltheo">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeltheo&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+  </a>
+</p>
