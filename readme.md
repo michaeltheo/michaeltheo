@@ -39,7 +39,7 @@ src="https://img.shields.io/github/followers/michaeltheo?logo=github&style=for-t
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="36" height="36" alt="Jest" /></a>
 <a href="https://vitest.dev/" target="_blank" rel="noreferrer"><img src="https://vitest.dev/logo.svg" width="36" height="36" alt="Vitest" /></a>
-<a href="https://storybook.js.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/storybookjs/storybookjs-icon.svg" width="36" height="36" alt="Storybook" /></a>
+<a href="https://storybook.js.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354397/storybook-icon.svg" width="36" height="36" alt="Storybook" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
